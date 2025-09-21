@@ -1,0 +1,5 @@
+{
+  "name": "Nusa Fracta Asset Assembler",
+  "description": "An internal tool for game designers of 'Nusa Fracta' to create and assemble visual game assets from modular PNG components. The tool operates on a 960x540 pixel canvas, supports a modular component system, and allows exporting scene configurations as JSON.",
+  "requestFramePermissions": []
+}
